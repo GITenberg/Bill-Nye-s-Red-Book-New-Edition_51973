@@ -1,0 +1,37 @@
+_repo: Bill-Nye-s-Red-Book-New-Edition_51973
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Smith, J. H. (Jerome H.)
+    alias: Smith, Jerome H.
+    birthdate: 1861
+    gutenberg_agent_id: '46616'
+    url: http://www.gutenberg.org/2009/agents/46616
+creator:
+  author:
+    agent_name: Nye, Bill
+    aliases:
+    - Nye, Edgar W. (Edgar Wilson)
+    - Nye, Edgar Wilson
+    birthdate: 1850
+    deathdate: 1896
+    gutenberg_agent_id: '2704'
+    url: http://www.gutenberg.org/2009/agents/2704
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51973'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'American wit and humor'
+- GITenberg
+title: 'Bill Nye''s Red Book
+
+  New Edition'
+url: http://www.gutenberg.org/ebooks/51973
