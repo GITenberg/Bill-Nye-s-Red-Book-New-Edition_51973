@@ -7,6 +7,9 @@ contributor:
     birthdate: 1861
     gutenberg_agent_id: '46616'
     url: http://www.gutenberg.org/2009/agents/46616
+covers:
+- cover_type: archival
+  image_path: 51973-h/images/cover.jpg
 creator:
   author:
     agent_name: Nye, Bill
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2704
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51973#Bill-Nye-s-Red-Book-New-Edition
 gutenberg_issued: '2016-05-02'
 gutenberg_type: Text
 identifiers:
